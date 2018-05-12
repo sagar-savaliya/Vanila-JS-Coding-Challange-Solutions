@@ -1,4 +1,4 @@
-### Vanila-JS-Coding-Challange-Solutions
+### Vanila JS Coding Challange Solutions
 
 My solution of 30 day Vanilla javascript coding challenge.
 
